@@ -242,6 +242,7 @@ figure.effect-julia:hover p {
   background-repeat: repeat;
   /*background-image: url("../img/texture/bg-noise.png");*/
  /* height: 132px;*/
+  padding-left: 20px;
   position: relative;
   top: auto;
   right: auto;
