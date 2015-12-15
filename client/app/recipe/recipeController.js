@@ -7,7 +7,7 @@ angular.module('umami.recipe', ['ngRoute'])
       "id": "5160d4f896cc620d188cb475",
       "name": "Lemon and Fresh Herb Tabbouleh",
       "source": "epicurious",
-      "url": "http://www.epicurious.com/recipes/food/views/Lemon-and-Fresh-Herb-Tabbouleh-355892",
+      "url": "http://www.101cookbooks.com/mt-static/images/food/kombucha-holiday-punch-recipe.jpg",
       "recipeYield": "Makes 8 servings",
       "ingredients": ["1/2 cup medium- or fine-grain bulgur", "2 tablespoons extra virgin olive oil", "2 garlic cloves, minced", "2 cups finely chopped fresh flat-leaf parsley (about 3 bunches)", "3/4 cup diced red onion", "2 medium tomatoes, seeded and diced", "1/3 cup finely chopped fresh mint", "1/4 cup finely chopped fresh basil", "3 tablespoons finely chopped fresh dill", "3 tablespoons finely chopped fresh cilantro", "1/3 cup fresh lemon juice"],
       "datePublished": "2009-03-01",
